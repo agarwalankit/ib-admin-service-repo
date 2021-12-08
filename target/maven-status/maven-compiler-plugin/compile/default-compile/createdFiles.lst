@@ -1,0 +1,11 @@
+org/bluemount/adminservice/repositories/OpportunityRepository.class
+org/bluemount/adminservice/AdminServiceApp.class
+org/bluemount/adminservice/controller/PartnerController.class
+org/bluemount/adminservice/service/impl/OpportunityServiceImpl.class
+org/bluemount/adminservice/service/impl/PartnerServiceImpl.class
+org/bluemount/adminservice/repositories/PartnerRepository.class
+org/bluemount/adminservice/service/PartnerService.class
+org/bluemount/adminservice/model/Opportunity.class
+org/bluemount/adminservice/controller/OpportunityController.class
+org/bluemount/adminservice/service/OpportunityService.class
+org/bluemount/adminservice/model/Partner.class
