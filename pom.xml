@@ -29,6 +29,7 @@
                 <activatedProperties>prod</activatedProperties>
             </properties>
         </profile>
+
     </profiles>
 
     <dependencies>
